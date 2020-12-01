@@ -17,17 +17,17 @@ create a local instance of Spark using `sparklyr`
 
 ## Plot showcase
 
-#### Yellow taxis
+### Yellow taxis
 ![](plots/yellow_pickup.png)
 ![](plots/yellow_dropoff.png)
 
-#### Green taxis
+### Green taxis
 ![](plots/green_pickup.png)
 ![](plots/green_dropoff.png)
 
-#### Side-by-side comparison
+### Side-by-side comparison
 
-![](plots/combo.png)
+![](plots/combo_plot.png)
 
 ## Acknowledgements
 
