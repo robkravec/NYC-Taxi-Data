@@ -17,6 +17,8 @@ create a local instance of Spark using `sparklyr`
 
 ## Plot showcase
 
+![](plots/green_dropoff.png)
+
 ## Acknowledgements
 
 This project was completed as part of STA 523 (Statistical Programming) at Duke,
